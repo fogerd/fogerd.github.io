@@ -58,12 +58,11 @@ display: block;
 position: relative;
 height: 100%;
 overflow: hidden;
-opacity: 1;
+
 }
 
 
 #headertext{
-max-width: 640px;
 margin: auto;
 text-align: left;
 height: auto;
@@ -77,10 +76,14 @@ top: 375px;
 #second {
 font-size: 50px;
 line-height: 64px;
-color: #FFF;
 font-family: gotham-bold, san-serif;
+background-color: #f3f3f3;
+color: #333332;
 text-align: center;
 letter-spacing: -.02em;
+width: 100%;
+margin-left: 0%;
+border-radius: 0px;
 }
 
 
