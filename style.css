@@ -79,9 +79,10 @@ font-family: gotham-bold, san-serif;
 background-color: #f3f3f3;
 color: #333332;
 text-align: center;
-letter-spacing: -.05em;
-width: 640px;
-margin-left: 30%;
+letter-spacing: -.02em;
+/*width: 640px;*/
+width: 100%;
+margin-left: 0%;
 word-spacing: .2em;
 margin: 0 auto;
 }
