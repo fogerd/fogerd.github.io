@@ -190,13 +190,18 @@ background-size: cover;
 background-position:center;
 }
 
+
 #abouttext p{
-font-size: 1.2vw;
+font-size: 22px;
 margin-top: 30px;
 margin-bottom: 30px;
 
 color: #404040;
 line-height: 2.5em;
+}
+
+@media screen and (max-device-width: 480px) {
+#abouttext p { font-size: 50px;
 }
 
 #openingheader{
